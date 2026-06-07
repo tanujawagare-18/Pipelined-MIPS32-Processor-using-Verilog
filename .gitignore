@@ -1,0 +1,32 @@
+# Vivado generated files
+*.jou
+*.log
+*.str
+*.xpr.bak
+
+# Vivado project directories
+*.runs/
+*.cache/
+*.hw/
+*.ip_user_files/
+*.sim/
+*.srcs/impl_1/
+*.xil/
+
+# Simulation files
+*.vcd
+*.wdb
+*.wcfg
+
+# Synthesis files
+*.dcp
+*.rpt
+*.xml
+*.pb
+
+# Windows
+Thumbs.db
+Desktop.ini
+
+# Mac
+.DS_Store
